@@ -46,4 +46,4 @@ python TestNet_transf --inputdir ./data/CCTA/mixCT --scratchdir ./data/CCTA/resa
 ```
 
 ### License
-The project can be used for research purposes, under license of [ODBL](https://choosealicense.com/licenses/odbl-1.0/) with an added [Common Clause](https://commonsclause.com/).
+The project can be used only for research purposes, under license of [ODBL](https://choosealicense.com/licenses/odbl-1.0/) with an added [Common Clause](https://commonsclause.com/).
